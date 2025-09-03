@@ -44,7 +44,7 @@ Make sure the folder name is `db`.
 | id          | INT     |        | AUTO\_INCREMENT, PRIMARY KEY |
 | name        | VARCHAR | 100    |                              |
 | email       | VARCHAR | 100    |                              |
-| age         | INT     |        |                              |
+| course      | VARCHAR | 100    |                              |
 
 *(You can change or add more fields based on your form.)*
 
